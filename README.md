@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 Nguyen Viet Anh
 =========
 
@@ -18,4 +16,3 @@ My Github stats
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
