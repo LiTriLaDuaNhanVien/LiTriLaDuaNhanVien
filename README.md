@@ -8,7 +8,7 @@
 </a>
 <br><br>
 <a href="https://github.com/LiTriLaDuaNhanVien/LiTriLaDuaNhanVien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiTriLaDuaNhanVien&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Lychee27s%20Github%20Stats" alt="Lychee's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiTriLaDuaNhanVien&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=LycheeNguyen%20Github%20Stats" alt="Lychee Nguyễn's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/LiTriLaDuaNhanVien/LiTriLaDuaNhanVien">
