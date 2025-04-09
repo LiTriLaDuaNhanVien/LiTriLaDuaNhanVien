@@ -12,7 +12,7 @@
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/LiTriLaDuaNhanVien/LiTriLaDuaNhanVien">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LiTriLaDuaNhanVien&theme=gruvbox" alt="Lychee's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LiTriLaDuaNhanVien" alt="Lychee's GitHub Streak Stats"/>
 </a>
 <br><br>
 </div>
