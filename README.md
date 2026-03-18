@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Nguyen Viet Anh
+# Lí trí là đứa nhân viên ... vì nó thật khó để làm chủ
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
