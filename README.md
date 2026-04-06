@@ -1,6 +1,12 @@
-### Hi there 👋
-## Nguyen Viet Anh
-# Lí trí là đứa nhân viên ... vì nó thật khó để làm chủ
+### Hi there 👋 
+## I'm Nguyen Viet Anh
+
+> **"Lí trí là đứa nhân viên... vì nó thật khó để làm chủ"**
+>
+> *Love for her won't let me sleep, it's all that I can see,*
+>
+> *My logic holds no authority, it’s just an employee.*
+>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
